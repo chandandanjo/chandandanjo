@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @chandandanjo
 - 👀 I’m interested in python programming.
-- 🌱 I’m currently learning python and machine learning.
-- 💞️ I’m looking to collaborate on simple python projects.
 - 📫 How to reach me :- chandantrikala@gmail.com
 
 <!---
