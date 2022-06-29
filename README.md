@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @chandandanjo
-- 👀 I’m interested in python programming.
+- 👀 Python Developer.
 - 📫 How to reach me :- chandantrikala@gmail.com
 
 <!---
