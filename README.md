@@ -1,4 +1,3 @@
-- 👀 Python Developer.
 - 📫 How to reach me :- chandantrikala@gmail.com
 
 <!---
